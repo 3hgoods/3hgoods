@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-프로필 구축을 위한 기본 안내
+(주)쓰리에이치굿스는 가전산업으로 시작하여 자율주행차, 드론, 초분광 카메라 영역으로
+사업을 활동 무대를 확대하고 있습니다.
+
+스마트 가전용 인공지능 구축 - 체감온도 기반 스마트 콘트롤러 개발을 시작으로
+자율주행차 상위제어기를 제작하였고
+지금 강화학습기반 자율비행 계측드론을 프로젝트를 수행중에 있습니다. 
+
 <!--
 **3hgoods/3hgoods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
