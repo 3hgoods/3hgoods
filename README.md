@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+프로필 구축을 위한 기본 안내
 <!--
 **3hgoods/3hgoods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
