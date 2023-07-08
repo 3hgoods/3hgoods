@@ -8,8 +8,8 @@
 지금 강화학습기반 자율비행 계측드론을 프로젝트를 수행중에 있습니다. 
 
 광주 혁신기업 쓰리에이치굿스, CES2023서 드론 활용 안전진단 솔루션 공개…"가상환경 활용해 안전한 도시 구현한다"
-https://news.nate.com/view/20230105n37638?mid=n0100
-https://youtu.be/xzWXzCq1tEE 
+- https://news.nate.com/view/20230105n37638?mid=n0100
+- https://youtu.be/xzWXzCq1tEE 
 
 <!--
 **3hgoods/3hgoods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
